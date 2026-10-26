@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="460" viewBox="0 0 1440 460" fill="none" role="img" aria-labelledby="title description">
+  <title id="title">Gentle writing app</title>
+  <desc id="description">A warm lavender banner with the Gentle wordmark and a preview of its writing editor.</desc>
+  <defs>
+    <linearGradient id="background" x1="60" y1="18" x2="1387" y2="458" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F3F0F8"/>
+      <stop offset=".56" stop-color="#F8F5FA"/>
+      <stop offset="1" stop-color="#EFEAF6"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="115" y1="117" x2="389" y2="376" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A28BC9"/>
+      <stop offset="1" stop-color="#C77D91"/>
+    </linearGradient>
+    <filter id="shadow" x="676" y="65" width="707" height="397" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+      <feOffset dy="14"/>
+      <feGaussianBlur stdDeviation="13"/>
+      <feComposite in2="hardAlpha" operator="out"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0.25 0 0 0 0 0.2 0 0 0 0 0.31 0 0 0 0.13 0"/>
+      <feBlend in2="BackgroundImageFix" result="effect1_dropShadow"/>
+      <feBlend in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+    </filter>
+  </defs>
+  <rect width="1440" height="460" rx="28" fill="url(#background)"/>
+  <circle cx="70" cy="42" r="176" fill="#E4DCEF" fill-opacity=".46"/>
+  <circle cx="435" cy="471" r="220" fill="#F5E4E9" fill-opacity=".42"/>
+  <g transform="translate(104 137)">
+    <rect width="58" height="58" rx="19" fill="#E7DFF1"/>
+    <rect x="19" y="19" width="6" height="20" rx="3" fill="url(#accent)"/>
+    <rect x="28" y="13" width="6" height="32" rx="3" fill="url(#accent)"/>
+    <rect x="37" y="23" width="6" height="15" rx="3" fill="url(#accent)"/>
+  </g>
+  <text x="178" y="180" fill="#382F40" font-family="Georgia, 'Times New Roman', serif" font-size="58" font-weight="600" letter-spacing="-2.8">gentle<tspan fill="#C77D91">.</tspan></text>
+  <text x="106" y="247" fill="#776E84" font-family="Arial, sans-serif" font-size="18" letter-spacing=".2">A calm, beautifully simple space</text>
+  <text x="106" y="274" fill="#776E84" font-family="Arial, sans-serif" font-size="18" letter-spacing=".2">for your thoughts.</text>
+  <g transform="translate(106 318)">
+    <rect width="95" height="31" rx="15.5" fill="#E6DFF0"/>
+    <circle cx="17" cy="15.5" r="5" fill="#9E8CC8"/>
+    <text x="30" y="20" fill="#665A7B" font-family="Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1">WRITE</text>
+    <rect x="107" width="94" height="31" rx="15.5" fill="#F2E1E6"/>
+    <circle cx="124" cy="15.5" r="5" fill="#C77D91"/>
+    <text x="137" y="20" fill="#845565" font-family="Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1">REFLECT</text>
+  </g>
+  <g filter="url(#shadow)">
+    <rect x="702" y="91" width="655" height="334" rx="18" fill="#FFFEFF"/>
+    <path d="M720 91h619a18 18 0 0 1 18 18v55H702v-55a18 18 0 0 1 18-18Z" fill="#F8F6FB"/>
+    <path d="M702 164h655" stroke="#E8E3F0"/>
+    <circle cx="728" cy="121" r="4" fill="#D5C9E5"/>
+    <circle cx="742" cy="121" r="4" fill="#D5C9E5"/>
+    <circle cx="756" cy="121" r="4" fill="#D5C9E5"/>
+    <rect x="785" y="112" width="114" height="17" rx="8.5" fill="#EAE5F2"/>
+    <rect x="1264" y="111" width="62" height="20" rx="10" fill="#EEE9F6"/>
+    <circle cx="1277" cy="121" r="4" fill="#9E8CC8"/>
+    <rect x="1290" y="117" width="24" height="7" rx="3.5" fill="#A49BB5"/>
+    <text x="772" y="212" fill="#9A8CB1" font-family="Arial, sans-serif" font-size="9" font-weight="700" letter-spacing="1.8">A NEW PAGE</text>
+    <text x="772" y="250" fill="#342F40" font-family="Georgia, 'Times New Roman', serif" font-size="29">A little space for your thoughts</text>
+    <text x="772" y="278" fill="#89829C" font-family="Arial, sans-serif" font-size="11">Last edited just now · 76 words</text>
+    <rect x="702" y="300" width="655" height="42" fill="#F8F6FB"/>
+    <path d="M702 300h655M702 342h655" stroke="#E8E3F0"/>
+    <rect x="773" y="313" width="49" height="15" rx="7.5" fill="#E9E4F1"/>
+    <rect x="846" y="313" width="15" height="15" rx="4" fill="#DAD1E8"/>
+    <rect x="871" y="313" width="15" height="15" rx="4" fill="#DAD1E8"/>
+    <rect x="896" y="313" width="15" height="15" rx="4" fill="#DAD1E8"/>
+    <rect x="946" y="313" width="15" height="15" rx="4" fill="#DAD1E8"/>
+    <rect x="971" y="313" width="15" height="15" rx="4" fill="#DAD1E8"/>
+    <rect x="996" y="313" width="15" height="15" rx="4" fill="#DAD1E8"/>
+    <path d="M774 371h416" stroke="#E9E5EC" stroke-width="9" stroke-linecap="round"/>
+    <path d="M774 394h520" stroke="#EEEAF1" stroke-width="9" stroke-linecap="round"/>
+    <path d="M774 417h355" stroke="#EEEAF1" stroke-width="9" stroke-linecap="round"/>
+  </g>
+</svg>
